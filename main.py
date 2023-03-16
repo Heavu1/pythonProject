@@ -10,7 +10,7 @@ def print_hi(name):
 
 
 def feature():
-    return 1
+    return 2
 
 
 # Press the green button in the gutter to run the script.
